@@ -9,7 +9,7 @@ This firmware transforms the **ESP32-2432S028 (Cheap Yellow Display)** board int
 ## Hardware
 
 *   **Board:** ESP32-2432S028 "Cheap Yellow Display"
-*   **Channel 1 (CH1):** GPIO 22
+*   **Channel 1 (CH1):** GPIO 22 (Connector CN1)
 *   **Channel 2 (CH2):** GPIO 27 (Connector CN1)
     *   *Note: GPIO 35 (Connector P3) can also be used for CH2, but it may be faulty in some cases.*
 
